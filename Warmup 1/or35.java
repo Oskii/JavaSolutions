@@ -1,0 +1,4 @@
+//This is the solution code for Warmup-1: or35
+public boolean or35(int n) {
+  return n % 3 == 0 || n % 5 == 0;
+}
